@@ -5,3 +5,4 @@ version 0.1
 
 ## Documentation
 - [ETR Stats API](#docs/ETRStatsAPI)
+- [ETS2MP Stats API](#docs/ETS2MPStats)
