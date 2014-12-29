@@ -2,5 +2,4 @@
 
 ## Get current playercount of the servers
 
-You can get the current number of players by GETing ```api.ets2mpstats.com/mp/playercount``` or ```api.ets2mpstats.com/mp/playercount/text```, this will return respectively a JSON reply or a plain text reply.
-**This API call is depricated, there is no plans on providing a replacement as it's pretty much useless, if you want to get this you can call ```api.ets2mp.com/servers``` instead.**
+You can GET ```ets2mpstats.com/api/ets/playercount``` to get a output similar to this: ```Currently there's 759 of 2500(30.36% full) on EU #1, 0 of 1500(0% full) on US #1 and 42 of 1500(2.8% full) on EU #2 FR```, there is no JSON response for this api, the purpose of this api call is to provide functionality to eg. nightbot on twitch 
