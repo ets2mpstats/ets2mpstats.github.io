@@ -1,5 +1,5 @@
 # [ETS2MP Stats]()
-version 0.1
+version 1.5
 
 [ditto:searchbar]
 
