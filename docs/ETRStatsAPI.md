@@ -16,4 +16,4 @@ You can get the current DJ by GETing ```ets2mpstats.com/api/etr/dj/<site>``` , t
 
 ## Make a new request to ETR
 
-You can post a new reqeust to ETR by GETing ```ets2mpstats.com/api/etr/request/<url encoded request>/<url encoded name>```, This will return ```Thank you $name, $song as been requested```. This is primarily targeted for using with bots that have no concept of posting dat. This is primarily targeted for using awth bots that have no concept of posting data.
+You can post a new reqeust to ETR by GETing ```ets2mpstats.com/api/etr/request/<url encoded name>/<url encoded request>```, This will return ```Thank you $name, $song as been requested```. This is primarily targeted for using with bots that have no concept of posting dat. This is primarily targeted for using awth bots that have no concept of posting data.
