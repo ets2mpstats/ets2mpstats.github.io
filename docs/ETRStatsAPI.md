@@ -2,6 +2,8 @@
 
 The api supports both HTTP and HTTPS schemes.
 
+**ETR APIs are going to be depricated November 1st**
+
 ## Get current playing song
 
 You can get the currently playing song by GETing ```ets2mpstats.com/api/etr/nowplaying/<site>```, this will return a plaintext response unless you explicitly specify ```application/json``` in your accept headers. You must specify ```site``` in your url, currently only ```en``` and ```pl``` is supported.
